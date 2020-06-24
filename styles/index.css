@@ -1,0 +1,26 @@
+
+header {
+    background-color: #006bb5;
+    height: 3em;
+    justify-content: center;
+}
+
+.logoContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+a.logo {
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+a.logo:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.row {
+    height: 100%;
+}
